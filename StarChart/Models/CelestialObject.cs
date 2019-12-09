@@ -21,6 +21,5 @@ namespace StarChart.Models
 
         public TimeSpan OrbitalPeriod { get; set; }
 
-
     }
 }
